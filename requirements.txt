@@ -1,2 +1,2 @@
-panads
+pandas
 pytest
